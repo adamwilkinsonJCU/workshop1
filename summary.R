@@ -1,2 +1,0 @@
-sumary(x)
-summary(y)
